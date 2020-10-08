@@ -1,0 +1,6 @@
+module Pods_hongkongNews_hongkongNewsTests {
+  umbrella header "Pods-hongkongNews-hongkongNewsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
